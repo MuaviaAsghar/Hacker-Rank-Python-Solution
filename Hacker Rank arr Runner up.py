@@ -3,3 +3,4 @@ if __name__ == '__main__':
     arr = map(int, input().split())
     
     print(sorted(set(arr))[-2])
+
